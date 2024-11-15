@@ -158,9 +158,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![CODE SS](https://github.com/user-attachments/assets/3fbfa2af-24e7-46f7-9ce5-4c0bcc3feebb)
+![CODE SS](https://github.com/user-attachments/assets/3fbfa2af-24e7-46f7-9ce5-4c0bcc3feebb)![ex2](https://github.com/user-attachments/assets/3114bb27-fdc4-446b-8530-c2bfb34b0476)
 
-![OUTPUT SS](https://github.com/user-attachments/assets/6db9279a-825b-466e-9eb9-5358196d82c9)
 
 
 ## Result:
